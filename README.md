@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello
+I'm a freshman at CU Boulder looking to major in Computer Science. I know Java and I'm currently learning C++ and Kotlin.
 
 <!--
 **Alex-Carmichael-2394/Alex-Carmichael-2394** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
